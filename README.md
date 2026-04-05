@@ -1,4 +1,4 @@
-[Open in Colab](https://github/Nirav-17/Alpha-Signal-Research-and-Backtesting-Framework/blob/main/alpha_signal_research.ipynb)
+[Open in Colab](https://colab.research.google.com/github/Nirav-17/Alpha-Signal-Research-and-Backtesting-Framework/blob/main/alpha_signal_research.ipynb)
 # Alpha-Signal-Research-and-Backtesting-Framework
 A quantitative research framework for generating, evaluating, and combining trading signals using IC analysis and walk-forward validation.
 This project implements a quantitative research framework for discovering 
